@@ -1,0 +1,39 @@
+{
+    "schemaVersion":  1,
+    "product":  "MAKCU",
+    "releases":  [
+                     {
+                         "id":  "makcu",
+                         "version":  6,
+                         "label":  "MAKCU V6",
+                         "file":  "MAKCU_V6.bin",
+                         "bytes":  207216,
+                         "sha256":  "6ec21e6c556bca4e2532a0d2f4abc790c376ec40065335c93eb4030e5a592764",
+                         "sourceRevision":  "9832b0ff1324123e5e71216a7690173ce98540e9",
+                         "installable":  true,
+                         "artifacts":  [
+                                           {
+                                               "file":  "boot_left.bin",
+                                               "role":  "left",
+                                               "bytes":  8832,
+                                               "sha256":  "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+                                           },
+                                           {
+                                               "file":  "boot_right.bin",
+                                               "role":  "right",
+                                               "bytes":  7888,
+                                               "sha256":  "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+                                           },
+                                           {
+                                               "file":  "MAKCU_V6.bin",
+                                               "role":  "pair",
+                                               "bytes":  207216,
+                                               "sha256":  "6ec21e6c556bca4e2532a0d2f4abc790c376ec40065335c93eb4030e5a592764"
+                                           }
+                                       ]
+                     }
+                 ],
+    "architecture":  "paired-v2",
+    "welcome":  "Official MAKCU firmware for this device.",
+    "currentVersion":  6
+}

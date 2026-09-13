@@ -1,0 +1,13 @@
+{
+    "releases":  [
+                     {
+                         "version":  20260912,
+                         "label":  "MAK-D 20260912",
+                         "file":  "makxd-geek-20260912.bin",
+                         "bytes":  969568,
+                         "sha256":  "a4285187d8a287fc01b58c0c19f6e65899752d4e22a8460e6870b6f06f63fac2"
+                     }
+                 ],
+    "schemaVersion":  1,
+    "product":  "MAK-D"
+}
