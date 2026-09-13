@@ -4,6 +4,36 @@
   "releases": [
     {
       "id": "makcu",
+      "version": 8,
+      "label": "MAKCU V8",
+      "file": "MAKCU_V8.bin",
+      "bytes": 333392,
+      "sha256": "a8120493c96a6d4fa3e1b368b2937c56177006191e96d2239b6bf7daf6cd5e61",
+      "sourceRevision": "0535cc5a6befb016f78ae7d5b1fd6fb1a4c209ad",
+      "installable": true,
+      "artifacts": [
+        {
+          "file": "boot_left.bin",
+          "role": "left",
+          "bytes": 8832,
+          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+        },
+        {
+          "file": "boot_right.bin",
+          "role": "right",
+          "bytes": 7888,
+          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+        },
+        {
+          "file": "MAKCU_V8.bin",
+          "role": "pair",
+          "bytes": 333392,
+          "sha256": "a8120493c96a6d4fa3e1b368b2937c56177006191e96d2239b6bf7daf6cd5e61"
+        }
+      ]
+    },
+    {
+      "id": "makcu",
       "version": 7,
       "label": "MAKCU V7",
       "file": "MAKCU_V7.bin",
@@ -65,5 +95,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 7
+  "currentVersion": 8
 }
