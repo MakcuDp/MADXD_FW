@@ -4,6 +4,36 @@
   "releases": [
     {
       "id": "makcu",
+      "version": 13,
+      "label": "MAKCU V13",
+      "file": "MAKCU_V13.bin",
+      "bytes": 340400,
+      "sha256": "2cfc94c5df2651877f83f6a12c21e2b30363c043d2d81b9ad0559ac9948ec341",
+      "sourceRevision": "7defc648f18cfe3f53d725a6b68a81459381e765",
+      "installable": true,
+      "artifacts": [
+        {
+          "file": "boot_left.bin",
+          "role": "left",
+          "bytes": 8832,
+          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+        },
+        {
+          "file": "boot_right.bin",
+          "role": "right",
+          "bytes": 7888,
+          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+        },
+        {
+          "file": "MAKCU_V13.bin",
+          "role": "pair",
+          "bytes": 340400,
+          "sha256": "2cfc94c5df2651877f83f6a12c21e2b30363c043d2d81b9ad0559ac9948ec341"
+        }
+      ]
+    },
+    {
+      "id": "makcu",
       "version": 12,
       "label": "MAKCU V12",
       "file": "MAKCU_V12.bin",
@@ -215,5 +245,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 12
+  "currentVersion": 13
 }
