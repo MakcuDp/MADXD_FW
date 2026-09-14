@@ -2,8 +2,22 @@
   "schemaVersion": 1,
   "architecture": "monolithic-v1",
   "welcome": "Official MAKXD firmware for this device.",
-  "currentVersion": 10,
+  "currentVersion": 11,
   "releases": [
+    {
+      "id": "makxd",
+      "label": "MAKXD V11",
+      "version": 11,
+      "bytes": 1339392,
+      "sha256": "813df54b42d850c8a6476c412ce418139d6291f8dcdfacb35dda5f21bdccbaf4",
+      "file": "MAKXD_V11.bin",
+      "sourceArtifactSha256": "ba7490bc19810e21b41ade48bda95e91d6369a749a9458d6de1c67f1065c62ed",
+      "installable": true,
+      "sourceRevision": "573febc1d8c06e27dcefb3d4ee05158ed974786d",
+      "srkSigned": true,
+      "kekExipEncrypted": true,
+      "monolithic": true
+    },
     {
       "id": "makxd",
       "label": "MAKXD V10",
