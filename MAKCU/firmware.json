@@ -4,6 +4,36 @@
   "releases": [
     {
       "id": "makcu",
+      "version": 9,
+      "label": "MAKCU V9",
+      "file": "MAKCU_V9.bin",
+      "bytes": 333408,
+      "sha256": "609c7168597c72dc512d709fdea2c9f800ea13c9928b5a46563df539e6423daa",
+      "sourceRevision": "38d9fb421984ba8ad5c4f8abc78c43abfccab165",
+      "installable": true,
+      "artifacts": [
+        {
+          "file": "boot_left.bin",
+          "role": "left",
+          "bytes": 8832,
+          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+        },
+        {
+          "file": "boot_right.bin",
+          "role": "right",
+          "bytes": 7888,
+          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+        },
+        {
+          "file": "MAKCU_V9.bin",
+          "role": "pair",
+          "bytes": 333408,
+          "sha256": "609c7168597c72dc512d709fdea2c9f800ea13c9928b5a46563df539e6423daa"
+        }
+      ]
+    },
+    {
+      "id": "makcu",
       "version": 8,
       "label": "MAKCU V8",
       "file": "MAKCU_V8.bin",
@@ -95,5 +125,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 8
+  "currentVersion": 9
 }
