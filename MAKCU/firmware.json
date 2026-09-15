@@ -4,6 +4,37 @@
   "releases": [
     {
       "id": "makcu",
+      "version": 22,
+      "label": "MAKCU V22",
+      "firmwareVersion": 966007593,
+      "file": "MAKCU_V22.bin",
+      "bytes": 352064,
+      "sha256": "7ff746d9297732f0ad7ac225f3f27a49dd69ce8b7899cd763a2dcb8aa0b8c030",
+      "sourceRevision": "39941b29eb5a35b6e11ac4b277864fe20cdcd037",
+      "installable": true,
+      "artifacts": [
+        {
+          "file": "boot_left.bin",
+          "role": "left",
+          "bytes": 8832,
+          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+        },
+        {
+          "file": "boot_right.bin",
+          "role": "right",
+          "bytes": 7888,
+          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+        },
+        {
+          "file": "MAKCU_V22.bin",
+          "role": "pair",
+          "bytes": 352064,
+          "sha256": "7ff746d9297732f0ad7ac225f3f27a49dd69ce8b7899cd763a2dcb8aa0b8c030"
+        }
+      ]
+    },
+    {
+      "id": "makcu",
       "version": 21,
       "label": "MAKCU V21",
       "firmwareVersion": 378201994,
@@ -492,5 +523,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 21
+  "currentVersion": 22
 }
