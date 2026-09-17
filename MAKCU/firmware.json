@@ -4,43 +4,12 @@
   "releases": [
     {
       "id": "makcu",
-      "label": "MAKCU V31",
-      "version": 31,
-      "firmwareVersion": 30,
-      "file": "MAKCU_V31.bin",
-      "bytes": 304032,
-      "sha256": "0e3abbd72102369f652ebdfc71cbe5270eb79ffb6f6cead720c7ab67075ac2be",
-      "installable": true,
-      "sourceRevision": "3fbbaf8e0b5f7c8ed30ebeef4c160c316711ec1c",
-      "artifacts": [
-        {
-          "role": "pair",
-          "file": "MAKCU_V31.bin",
-          "bytes": 304032,
-          "sha256": "0e3abbd72102369f652ebdfc71cbe5270eb79ffb6f6cead720c7ab67075ac2be"
-        },
-        {
-          "role": "left",
-          "file": "BOOT_LEFT.bin",
-          "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
-        },
-        {
-          "role": "right",
-          "file": "BOOT_RIGHT.bin",
-          "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
-        }
-      ]
-    },
-    {
-      "id": "makcu",
       "label": "MAKCU V30",
       "version": 30,
       "firmwareVersion": 30,
       "file": "MAKCU_V30.bin",
       "bytes": 304032,
-      "sha256": "5607c1b25bbb0eb9fd1da2db45b2401e7da8c50c9688faac8173c3993411e077",
+      "sha256": "0e3abbd72102369f652ebdfc71cbe5270eb79ffb6f6cead720c7ab67075ac2be",
       "installable": true,
       "sourceRevision": "8a15116cf2b6e5d13afa3efa8601aa63c4cf54a6",
       "artifacts": [
@@ -48,7 +17,7 @@
           "role": "pair",
           "file": "MAKCU_V30.bin",
           "bytes": 304032,
-          "sha256": "5607c1b25bbb0eb9fd1da2db45b2401e7da8c50c9688faac8173c3993411e077"
+          "sha256": "0e3abbd72102369f652ebdfc71cbe5270eb79ffb6f6cead720c7ab67075ac2be"
         },
         {
           "role": "left",
@@ -771,5 +740,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 31
+  "currentVersion": 30
 }
