@@ -21,13 +21,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V34.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V34.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -52,13 +52,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V33.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V33.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -83,13 +83,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V32.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V32.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -114,13 +114,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V31.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V31.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -145,13 +145,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V30.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V30.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -176,13 +176,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V29.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V29.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -207,13 +207,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V27.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V27.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -238,13 +238,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V26.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V26.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -269,13 +269,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V25.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V25.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -300,13 +300,13 @@
         },
         {
           "role": "left",
-          "file": "boot_left_V24.bin",
+          "file": "BOOT_LEFT.bin",
           "bytes": 8656,
           "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
           "role": "right",
-          "file": "boot_right_V24.bin",
+          "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
@@ -324,16 +324,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V23.bin",
@@ -355,16 +355,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V22.bin",
@@ -386,16 +386,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V21.bin",
@@ -417,16 +417,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V20.bin",
@@ -448,16 +448,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V19.bin",
@@ -479,16 +479,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V18.bin",
@@ -510,16 +510,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V17.bin",
@@ -541,16 +541,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V16.bin",
@@ -572,16 +572,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V15.bin",
@@ -602,16 +602,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V14.bin",
@@ -632,16 +632,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V13.bin",
@@ -662,16 +662,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V12.bin",
@@ -692,16 +692,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V11.bin",
@@ -722,16 +722,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V10.bin",
@@ -752,16 +752,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V9.bin",
@@ -782,16 +782,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V8.bin",
@@ -812,16 +812,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V7.bin",
@@ -842,16 +842,16 @@
       "installable": true,
       "artifacts": [
         {
-          "file": "boot_left.bin",
           "role": "left",
-          "bytes": 8832,
-          "sha256": "6361949275c33ef6ce66bc50d1b19a8399d532e3d8c9da2bbbdb7aab43afd1a2"
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
         },
         {
-          "file": "boot_right.bin",
           "role": "right",
-          "bytes": 7888,
-          "sha256": "e7dc74c395b5f8881c76d6b1503d4e3954487d731e19638751710f5861f4ff54"
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         },
         {
           "file": "MAKCU_V6.bin",
