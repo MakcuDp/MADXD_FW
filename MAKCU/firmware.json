@@ -128,37 +128,6 @@
     },
     {
       "id": "makcu",
-      "label": "MAKCU V28",
-      "version": 28,
-      "firmwareVersion": 1789547308,
-      "file": "MAKCU_V28.bin",
-      "bytes": 303664,
-      "sha256": "9a3a4f2d625e18629cc0ab9a6a647acb6c493c04068cc5956a9026c8ad25f91a",
-      "installable": true,
-      "sourceRevision": "9234ceac8b176d6e17baf6d4ad09bb495f7f89b9",
-      "artifacts": [
-        {
-          "role": "pair",
-          "file": "MAKCU_V28.bin",
-          "bytes": 303664,
-          "sha256": "9a3a4f2d625e18629cc0ab9a6a647acb6c493c04068cc5956a9026c8ad25f91a"
-        },
-        {
-          "role": "left",
-          "file": "boot_left_V28.bin",
-          "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
-        },
-        {
-          "role": "right",
-          "file": "boot_right_V28.bin",
-          "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
-        }
-      ]
-    },
-    {
-      "id": "makcu",
       "label": "MAKCU V27",
       "version": 27,
       "firmwareVersion": 1789542732,
