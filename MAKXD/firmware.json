@@ -2,8 +2,22 @@
   "schemaVersion": 1,
   "architecture": "monolithic-v1",
   "welcome": "Official MAKXD firmware for this device.",
-  "currentVersion": 24,
+  "currentVersion": 25,
   "releases": [
+    {
+      "id": "makxd",
+      "label": "MAKXD V25",
+      "version": 25,
+      "bytes": 1351680,
+      "sha256": "c2da7c2f283e775a7bbf8bd81871bddb68e420346bc169ef9d171347ebd69315",
+      "file": "MAKXD_V25.bin",
+      "sourceArtifactSha256": "468b4b2b4fc6a917b69a9ddcb5746af321cfca286238b4fedb3c799d3ec7bdfd",
+      "installable": true,
+      "sourceRevision": "1257308949a5c439da657e6e02d984e2f2f840b8",
+      "srkSigned": true,
+      "kekExipEncrypted": true,
+      "monolithic": true
+    },
     {
       "id": "makxd",
       "label": "MAKXD V24",
@@ -210,20 +224,6 @@
       "sourceArtifactSha256": "388612879b632d87efe2585ae8c59aaaedaa11ec72743713107dc974f7cc34f3",
       "installable": true,
       "sourceRevision": "86aad783db61199d3806f565945cff520c8800b2",
-      "srkSigned": true,
-      "kekExipEncrypted": true,
-      "monolithic": true
-    },
-    {
-      "id": "makxd",
-      "label": "MAKXD V9",
-      "version": 9,
-      "bytes": 1331200,
-      "sha256": "bc95d90270af42be43718c10d046d130fda5da31f20210a3cd743e0273125a93",
-      "file": "MAKXD_V9.bin",
-      "sourceArtifactSha256": "dd5cbd72571032f446cd869e978fd08678fd8a00cd11eb2cd9714ab39c47f1e8",
-      "installable": true,
-      "sourceRevision": "98c8fc8ad62dc5db5cb07475ee424c3452e56252",
       "srkSigned": true,
       "kekExipEncrypted": true,
       "monolithic": true
