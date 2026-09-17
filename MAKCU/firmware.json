@@ -4,6 +4,37 @@
   "releases": [
     {
       "id": "makcu",
+      "label": "MAKCU V34",
+      "version": 34,
+      "firmwareVersion": 29,
+      "file": "MAKCU_V34.bin",
+      "bytes": 304032,
+      "sha256": "f3180cdd7984df0ec2cc00b0e1272a1392621d74fb2846a75bcc18ab14cd75c6",
+      "installable": true,
+      "sourceRevision": "afc256404c2caec75eb10e3839095bff2ea5ba67",
+      "artifacts": [
+        {
+          "role": "pair",
+          "file": "MAKCU_V34.bin",
+          "bytes": 304032,
+          "sha256": "f3180cdd7984df0ec2cc00b0e1272a1392621d74fb2846a75bcc18ab14cd75c6"
+        },
+        {
+          "role": "left",
+          "file": "boot_left_V34.bin",
+          "bytes": 8656,
+          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+        },
+        {
+          "role": "right",
+          "file": "boot_right_V34.bin",
+          "bytes": 7696,
+          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+        }
+      ]
+    },
+    {
+      "id": "makcu",
       "label": "MAKCU V33",
       "version": 33,
       "firmwareVersion": 29,
@@ -833,5 +864,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 33
+  "currentVersion": 34
 }
