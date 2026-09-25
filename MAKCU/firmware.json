@@ -31,7 +31,8 @@
           "bytes": 7696,
           "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
         }
-      ]
+      ],
+      "signature": "f9fc8103cb7f0632edcf21a588462255081e9f3a31065331e28a90e87e8b89d21a728018bd951e2e69d097b2b286bbd0021be9be286a3e6eb29b5d4a504281cd"
     },
     {
       "id": "makcu",
