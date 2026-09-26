@@ -4,6 +4,38 @@
   "releases": [
     {
       "id": "makcu",
+      "label": "MAKCU V4.024",
+      "version": 4024,
+      "firmwareVersion": 4024,
+      "file": "MAKCU_V4.024.bin",
+      "bytes": 323648,
+      "sha256": "3170c8db4653653f5ae1adb575904c08fe08d593949170049711543388d02d26",
+      "installable": true,
+      "sourceRevision": "e10aaabb916d273aad8e9c410f4b36ce119ee509",
+      "artifacts": [
+        {
+          "role": "pair",
+          "file": "MAKCU_V4.024.bin",
+          "bytes": 323648,
+          "sha256": "3170c8db4653653f5ae1adb575904c08fe08d593949170049711543388d02d26"
+        },
+        {
+          "role": "left",
+          "file": "BOOT_LEFT.bin",
+          "bytes": 8656,
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
+        },
+        {
+          "role": "right",
+          "file": "BOOT_RIGHT.bin",
+          "bytes": 7696,
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
+        }
+      ],
+      "signature": "15b0d19e2cd1351119f01ada561ad208e7ea67d09c849085087ed5c0f70bfcb0275e53f313604ab3cb8e74cf945df3a162e0669a6390f05a36903c013870155e"
+    },
+    {
+      "id": "makcu",
       "label": "MAKCU V30",
       "version": 30,
       "firmwareVersion": 30,
@@ -23,13 +55,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ],
       "signature": "f9fc8103cb7f0632edcf21a588462255081e9f3a31065331e28a90e87e8b89d21a728018bd951e2e69d097b2b286bbd0021be9be286a3e6eb29b5d4a504281cd"
@@ -55,13 +87,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ]
     },
@@ -86,13 +118,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ]
     },
@@ -117,13 +149,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ]
     },
@@ -148,13 +180,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ]
     },
@@ -179,13 +211,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         }
       ]
     },
@@ -204,13 +236,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V23.bin",
@@ -235,13 +267,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V22.bin",
@@ -266,13 +298,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V21.bin",
@@ -297,13 +329,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V20.bin",
@@ -328,13 +360,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V19.bin",
@@ -359,13 +391,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V18.bin",
@@ -390,13 +422,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V17.bin",
@@ -421,13 +453,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V16.bin",
@@ -452,13 +484,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V15.bin",
@@ -482,13 +514,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V14.bin",
@@ -512,13 +544,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V13.bin",
@@ -542,13 +574,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V12.bin",
@@ -572,13 +604,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V11.bin",
@@ -602,13 +634,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V10.bin",
@@ -632,13 +664,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V9.bin",
@@ -662,13 +694,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V8.bin",
@@ -692,13 +724,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V7.bin",
@@ -722,13 +754,13 @@
           "role": "left",
           "file": "BOOT_LEFT.bin",
           "bytes": 8656,
-          "sha256": "924a4d22837e6f5643024a76b73319624dee1cc411e340709068307abf30bfb6"
+          "sha256": "579a1142b3df5aa21c0ac4ebda38a3fd2c4d5bbadb9f1c5242e80540756a1b99"
         },
         {
           "role": "right",
           "file": "BOOT_RIGHT.bin",
           "bytes": 7696,
-          "sha256": "d5d7053ba63ae7e328756c0ecba796c3df8b92cf645f1789cd9adc9fb128c0cc"
+          "sha256": "4c15ea7c71f502bc466ec6790024cb0616a3cc79f2b7ae8b608c35acaa2a9fd4"
         },
         {
           "file": "MAKCU_V6.bin",
@@ -741,5 +773,5 @@
   ],
   "architecture": "paired-v2",
   "welcome": "Official MAKCU firmware for this device.",
-  "currentVersion": 30
+  "currentVersion": 4024
 }
